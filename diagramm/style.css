@@ -1,0 +1,15 @@
+#diagramm {
+  display:inline-flex;
+  min-width: 100%;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+h6 {
+  margin: 0;
+  color: grey;
+  font-family: calibri;
+  text-align: center;
+}
